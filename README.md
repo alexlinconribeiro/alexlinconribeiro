@@ -1,35 +1,72 @@
-## 👋 Olá, eu sou Alex Lincon
-- 💼 Atualente estou trabalhando com back-end
-- 📖 Estudando JavaScript
-- 📫 Contate - me no email: alexlinconribeiro@yahoo.com
+# 👋 Olá, eu sou Alex Lincon
 
-<div align="center">
-  <a href="https://github.com/alexlinconribeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexlinconribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexlinconribeiro&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"alt="alex-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center"alt="alex-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center"alt="alex-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />  
-  
-</div>
+💻 Network & Security Engineer  
+🔐 Especialista em Infraestrutura, Segurança e Conectividade  
 
-  ##
-  <div> 
- 
-  <a href="https://instagram.com/alexlincompereira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/alex-lincon-ribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
- 
- 
-  ![Snake animation](https://github.com/alexlinconribeiro/alexlinconribeiro/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-  
-<!---
-alexlinconribeiro/alexlinconribeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 Sobre mim
+
+Atuo com ambientes críticos de rede, focado em:
+
+- 🔥 FortiGate (Firewall, VPN, SD-WAN, HA, Security Profiles)
+- 🌐 Redes corporativas e hotelaria (alta densidade Wi-Fi)
+- 🧠 Troubleshooting avançado (L2 até camada de aplicação)
+- 🏢 Datacenter e Service Provider
+- ⚙️ Virtualização (VMware, Hyper-V)
+
+Tenho experiência prática em cenários onde **disponibilidade e performance são essenciais**.
+
+---
+
+## 🧰 Stack principal
+
+- Fortinet (FortiGate)
+- MikroTik
+- SonicWall
+- Ubiquiti / UniFi
+- Zabbix / Monitoramento
+- VMware ESXi / Hyper-V
+
+---
+
+## 🔍 O que você vai encontrar aqui
+
+- 📚 Cheat sheets técnicos
+- 🔧 Troubleshooting real de campo
+- 🧠 Playbooks de diagnóstico
+- 🌐 Projetos de rede e conectividade
+- ⚡ Conteúdo focado em performance e estabilidade
+
+---
+
+## 📌 Destaque
+
+👉 [FortiGate Cheat Sheet — Nível Especialista](https://alexlinconribeiro.github.io/fortigate-cheatsheet/)
+
+---
+
+## 🎯 Objetivo
+
+Compartilhar conhecimento prático e direto ao ponto, ajudando profissionais de redes a:
+
+- Resolver problemas mais rápido  
+- Entender o comportamento real do tráfego  
+- Evoluir de operação para engenharia  
+
+---
+
+## 📬 Contato
+
+💼 LinkedIn: (coloca aqui)  
+📧 Email: (coloca aqui)
+
+---
+
+## ⚡ Curiosidade
+
+Gosto de resolver problemas complexos de rede e transformar isso em material simples e útil.
+
+---
+
+⭐ Se algum conteúdo te ajudou, considere dar uma estrela nos repositórios.
