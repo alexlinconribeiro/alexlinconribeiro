@@ -58,8 +58,8 @@ Compartilhar conhecimento prático e direto ao ponto, ajudando profissionais de 
 
 ## 📬 Contato
 
-💼 LinkedIn: (coloca aqui)  
-📧 Email: (coloca aqui)
+💼 LinkedIn: ([Linkedin](https://www.linkedin.com/in/alex-lincon/))  
+📧 Email: alexlinconribeiro@yahoo.com
 
 ---
 
